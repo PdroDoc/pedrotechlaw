@@ -9,7 +9,7 @@ const siteMetadata = {
   company: 'Advogado Tech',
   theme: 'dark', // system, dark or light
   avatar: 'https://avatars.githubusercontent.com/u/205710427?v=4',
-  siteUrl: 'https://github.com/PdroDoc/',
+  siteUrl: 'https://pedrop.vercel.app/',
   siteRepo: 'https://github.com/PdroDoc/pedrotechlaw/',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
