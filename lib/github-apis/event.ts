@@ -9,7 +9,7 @@ const EventAPI = () => {
       const allEvents = await client.paginate(
         client.rest.activity.listEventsForAuthenticatedUser,
         {
-          username: GITHUB_USERNAME || "john",
+          username: GITHUB_USERNAME || "PdroDoc",
           per_page: 100,
         }
       );
