@@ -26,14 +26,14 @@ const projectsData: Project[] = [
     description: `Site autogerado por python e IA de informativos do STJ - 100% auto-gerado.`,
     imgSrc: "/imgs/stj.webp",
     tags: ["Python", "Next.js", "React.js","OpenIA","javascript"],
-    href: "https://dtite.taitrd.com/",
+    href: "https://stj-ia.vercel.app",
   },
   {
     title: "Consulta Tabela FIP - Exemplo Implementação", 
     description: `Exemplo de implementação de clone de API gerdo por IA em Python`,
     imgSrc: "/imgs/car.avif",
     tags: ["Next.js", "React.js", "TailwindCSS","API"],
-    href: "https://pricingportal.taitrd.com/",
+    href: "https://lazaro-motors.vercel.app/",
   },
   {
     title: "Meu site de corrida gerado por Python - 100% automático",
