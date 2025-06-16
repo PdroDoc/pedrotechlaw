@@ -16,10 +16,7 @@ export default function CommunicatorCard() {
         Ensino tecnologia com clareza, sem jargões. Atendo estudantes, advogados e concurseiros em busca de soluções reais. Atuo remotamente a partir do Brasil, com flexibilidade para atender diferentes ritmos e rotinas.
       </p> */}
       <p className="mb-4">
-        <span className="italic">Tao Te Ching:</span> Be content with what you have;
-rejoice in the way things are.
-When you realize there is nothing lacking,
-the whole world belongs to you. #Verse44 - #Tao "
+        <span className="italic">Tao Te Ching:</span> Be content with what you have;rejoice in the way things are. When you realize there is nothing lacking,the whole world belongs to you.
           </p>
                </MotionBlock>
   );
