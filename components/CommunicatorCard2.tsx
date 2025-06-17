@@ -19,7 +19,7 @@ export default function CommunicatorCard2() {
       alt="Abrir App do Miau"
       className="w-16 h-16 rounded-md"
     />
-    <span className="text-xl font-semibold">Mau 10 meses de corrida</span>
+    <span className="text-xl font-semibold">Meus 10 meses de corrida</span>
   </a>
   
   <a
