@@ -7,7 +7,7 @@ const MotionBlock = dynamic(() => import("./motions/Block"));
 export default function CommunicatorCard2() {
   return (
     <MotionBlock variants={fadeInRight} className="p-8 bg-yellow-400 dark:bg-red-500 rounded-xl text-black dark:text-white shadow-lg">
-      <h2 className="text-3xl font-bold mb-6">Conheça maus Apps</h2>
+      <h2 className="text-3xl font-bold mb-6">Conheça Meus Apps</h2>
  <a
     href="https://runmapy.streamlit.app"
     target="_blank"
