@@ -8,6 +8,13 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: "10 meses de corrida plotados em um mapa. Seus dados de GPS como você unca viu!",
+    description: `App criado onde ploto 10 meses de dados de GPS em um único mapa. Dando vida ao seu GPS`,
+    imgSrc: "/imgs/geolocation.png",
+    tags: ["python", "streamlit", "Data Science","Data View","geolocation","Garmin"],
+    href: "https://runmapy.streamlit.app",
+  },
+  {
     title: "Meu App: Sleep Data View ",
     description: `Meu app para vizualização de dados interativo de sono do Garmin feito em Python + Streamlit. Have Fun!`,
     imgSrc: "/imgs/miausleep.png",
