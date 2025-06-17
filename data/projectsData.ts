@@ -8,8 +8,8 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: "10 meses de corrida plotados no mapa. Dados de GPS como você nunca viu!",
-    description: `App criado onde ploto 10 meses de dados brutos de GPS em um único mapa. Pydeck + Streamlit`,
+    title: "Interaja com 10 mese de corrida plotados no mapa. Dados de GPS como você nunca viu!",
+    description: `Acesse meu App onde ploto 10 meses de dados brutos de GPS em um único mapa. Pydeck + Streamlit`,
     imgSrc: "/imgs/geolocation.png",
     tags: ["python", "streamlit", "Data Science","Data View","geolocation","Garmin"],
     href: "https://runmapy.streamlit.app",
